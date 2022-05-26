@@ -2,19 +2,18 @@
 
 @font-face {
     font-family: "Roots";
-    src: url(./font/Roots.ttf);
-}
-
-
-body {
-    margin: 0;
-    background-image: url("./testsite/Fondtest.svg");
+    src: url(../testsite/Fondtest.svg");
 
     color: lightgray;
 }
+body {
+    margin: 0;
+    background-image: url("../testsite/Fondtest.svg");
 
+    color: lightgray;
+}
 header {
-    background-image: url("./testsite/l-b-mluSdDeOksc-unsplash.jpg");
+    background-image: url("../testsite/l-b-mluSdDeOksc-unsplash.jpg");
     background-size: cover;
     background-position: center;
     width: auto;
