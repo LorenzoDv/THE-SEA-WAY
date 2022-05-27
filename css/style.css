@@ -258,6 +258,7 @@ h1 {
         z-index: 1;
         border-style: solid;
         border-color: #95621B;
+        
         border-width: 0px 5px 5px 0px;
         transform: rotate(225deg);
 
